@@ -9,6 +9,6 @@ Aquest projecte és la meva primera demo a GitHub
 ## Contribuïdors
 
 ## Contacte
-**El teu nom** - ***el teu correu***
+**Mosnef** - ***monsef.elattar.amarniss@ibadia.cat***
 
 Enllaç del projecte:
